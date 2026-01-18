@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG43emM5aWd2cThnY2FhbG14cDlmc3hiYzF3N3Uzc3d0azVyMjlteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<img align="right" alt="Coding" width="430" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG43emM5aWd2cThnY2FhbG14cDlmc3hiYzF3N3Uzc3d0azVyMjlteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay167746&label=Profile%20views&color=0e75b6&style=flat" alt="abhay167746" /> </p>
